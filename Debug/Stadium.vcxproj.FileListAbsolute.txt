@@ -1,0 +1,2 @@
+D:\Work\c++ & opengl\1\1. result\StadiumModules\StadiumFinal\Debug\Stadium.exe
+C:\Users\16036\Downloads\StadiumModules_v2\StadiumModules\StadiumFinal\Debug\Stadium.exe
